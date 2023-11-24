@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ygjwd12345.github.io/sitemap.xml
