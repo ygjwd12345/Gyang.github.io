@@ -18,9 +18,18 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<font size=7 face="黑体"> About Me </font>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Experience**: I am currently an Assistant Professor at the Faculty of Computer Science, Harbin Institute of Technology(HIT), China.
+I belong to [Integrative Intelligence and Learning(IIL) lab](http://en.iil.ac.cn/default.aspx), where principal investigator is [Wangmeng zuo](http://homepage.hit.edu.cn/wangmengzuo?lang=zh).
+I received my Ph.D. degree in 2023 from the Cognitive Science Department at HIT under the supervision of Prof. Mingli Ding. 
+I was also a joint Ph.D. student in 2020-2022 at University of Trento under the co-supervision of Prof. [Elisa Ricci](https://eliricci.eu/). 
+I received the B.S. degree from the  Measurement ＆ Control Technology and Instrument Department, from HIT in 2016.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Research Interests**: My research endeavors are anchored in the design and development of robust and scalable visual recognition systems, with a keen focus on their application in real-world scenarios.
+Central to my academic pursuit is the exploration of contrastive learning, unsupervised and semi-supervised learning methodologies, and domain adaptation techniques. 
+These areas are pivotal in refining the accuracy and efficiency of various visual tasks, including but not limited to object retrieval, image classification, semantic segmentation, and depth estimation.
+In the realm of autonomous driving and anomaly detection, my work seeks to integrate these advanced visual recognition strategies, 
+underscoring their potential to revolutionize these fields. 
+This integration not only promises enhancements in system reliability and performance but also contributes to the broader discourse on intelligent system design and implementation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
