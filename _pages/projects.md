@@ -9,4 +9,3 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Coming soon!!!
