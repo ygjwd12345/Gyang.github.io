@@ -2,15 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.
+subtitle: > 
+  <p>Assistant Professor<br>
+  Faculty of Computing<br>
+  Harbin Institute of Technology</p>
+  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>TIB J1612</p>
-    <p>Harbin, China</p>
+    <p>TIB J1612 <br>
+    Harbin, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
