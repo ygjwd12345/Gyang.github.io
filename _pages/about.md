@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  <p>Assistant Professor<br>
+ <font size=9>   <p>Assistant Professor<br>
   Faculty of Computing<br>
-  Harbin Institute of Technology</p>
+  Harbin Institute of Technology</p> </font>
   
 
 profile:
