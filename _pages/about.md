@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor Faculty of computing Harbin Institute of Technology
+subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
