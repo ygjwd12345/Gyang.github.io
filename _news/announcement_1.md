@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 Successfully defending a doctoral dissertation and obtaining a Ph.D. degree.
-My Ph.D. dissertation is ‘**RESEARCH ON ROAD ENVIRONMENT SEGMENTATION METHODS IN VISION-BASED AUTONOMOUS VEHICLE**’
+My Ph.D. dissertation is ‘**RESEARCH ON ROAD ENVIRONMENT SEGMENTATION METHODS IN VISION-BASED AUTONOMOUS VEHICLE**’.
