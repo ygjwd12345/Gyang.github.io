@@ -3,17 +3,18 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
- <font size=9>   <p>Assistant Professor<br>
+  <p>Assistant Professor<br>
   Faculty of Computing<br>
-  Harbin Institute of Technology</p> </font>
+  Harbin Institute of Technology<br>
+  Address: TIB J1612</p> 
   
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>TIB J1612 ,Harbin, China</p>
+#  more_info: >
+#    <p>TIB J1612 ,Harbin, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
