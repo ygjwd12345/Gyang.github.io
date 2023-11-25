@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <font size=7 face="黑体"> About Me </font>
 
 **Experience**: I am currently an Assistant Professor at the Faculty of Computer Science, Harbin Institute of Technology(HIT), China.
-I belong to [Integrative Intelligence and Learning(IIL) lab](http://en.iil.ac.cn/default.aspx), where principal investigator is [Wangmeng zuo](http://homepage.hit.edu.cn/wangmengzuo?lang=zh).
+I belong to [Integrative Intelligence and Learning(IIL) lab](http://en.iil.ac.cn/default.aspx), where principal investigator is [Wangmeng Zuo](http://homepage.hit.edu.cn/wangmengzuo?lang=zh).
 I received my Ph.D. degree in 2023 from the Cognitive Science Department at HIT under the supervision of Prof. Mingli Ding. 
 I was also a joint Ph.D. student in 2020-2022 at University of Trento under the co-supervision of Prof. [Elisa Ricci](https://eliricci.eu/). 
 I received the B.S. degree from the  Measurement ＆ Control Technology and Instrument Department, from HIT in 2016.
